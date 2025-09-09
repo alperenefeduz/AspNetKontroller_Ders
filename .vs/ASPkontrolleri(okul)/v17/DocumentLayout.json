@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alper\\Documents\\GitHub\\AspNetKontroller_Ders\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|c:\\users\\alper\\documents\\github\\aspnetkontroller_ders\\aspkontrolleri(okul)\\buttonkullanimi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|solutionrelative:aspkontrolleri(okul)\\buttonkullanimi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ButtonKullanimi.aspx",
+              "DocumentMoniker": "C:\\Users\\alper\\Documents\\GitHub\\AspNetKontroller_Ders\\ASPkontrolleri(okul)\\ButtonKullanimi.aspx",
+              "RelativeDocumentMoniker": "ASPkontrolleri(okul)\\ButtonKullanimi.aspx",
+              "ToolTip": "C:\\Users\\alper\\Documents\\GitHub\\AspNetKontroller_Ders\\ASPkontrolleri(okul)\\ButtonKullanimi.aspx",
+              "RelativeToolTip": "ASPkontrolleri(okul)\\ButtonKullanimi.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-09T07:11:22.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
