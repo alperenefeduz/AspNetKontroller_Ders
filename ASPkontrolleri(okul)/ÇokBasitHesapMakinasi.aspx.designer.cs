@@ -11,7 +11,7 @@ namespace ASPkontrolleri_okul_
 {
 
 
-    public partial class ButtonKullanimi
+    public partial class ÇokBasitHesapMakinasi
     {
 
         /// <summary>
@@ -24,30 +24,39 @@ namespace ASPkontrolleri_okul_
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// btn_tikla control.
+        /// tb_sayi1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btn_tikla;
+        protected global::System.Web.UI.WebControls.TextBox tb_sayi1;
 
         /// <summary>
-        /// btn_degistir control.
+        /// tb_sayi2 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btn_degistir;
+        protected global::System.Web.UI.WebControls.TextBox tb_sayi2;
 
         /// <summary>
-        /// lbtn_tikla control.
+        /// btn_topla control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.LinkButton lbtn_tikla;
+        protected global::System.Web.UI.WebControls.Button btn_topla;
+
+        /// <summary>
+        /// tb_sonuc control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox tb_sonuc;
     }
 }

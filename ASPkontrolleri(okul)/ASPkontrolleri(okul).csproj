@@ -68,7 +68,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="ButtonKullanimi.aspx" />
+    <Content Include="labelkullanimi.aspx" />
+    <Content Include="TextBoxKullanimi.aspx" />
     <Content Include="Web.config" />
+    <Content Include="ÇokBasitHesapMakinasi.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ButtonKullanimi.aspx.cs">
@@ -78,7 +81,28 @@
     <Compile Include="ButtonKullanimi.aspx.designer.cs">
       <DependentUpon>ButtonKullanimi.aspx</DependentUpon>
     </Compile>
+    <Compile Include="labelkullanimi.aspx.cs">
+      <DependentUpon>labelkullanimi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="labelkullanimi.aspx.designer.cs">
+      <DependentUpon>labelkullanimi.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TextBoxKullanimi.aspx.cs">
+      <DependentUpon>TextBoxKullanimi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TextBoxKullanimi.aspx.designer.cs">
+      <DependentUpon>TextBoxKullanimi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ÇokBasitHesapMakinasi.aspx.cs">
+      <DependentUpon>ÇokBasitHesapMakinasi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ÇokBasitHesapMakinasi.aspx.designer.cs">
+      <DependentUpon>ÇokBasitHesapMakinasi.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
