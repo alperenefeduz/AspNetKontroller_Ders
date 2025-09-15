@@ -11,7 +11,7 @@ namespace ASPkontrolleri_okul_
 {
 
 
-    public partial class ÇokBasitHesapMakinasi
+    public partial class BasitKullaniciGirisi
     {
 
         /// <summary>
@@ -24,67 +24,49 @@ namespace ASPkontrolleri_okul_
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// tb_sayi1 control.
+        /// lbl_isim control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox tb_sayi1;
+        protected global::System.Web.UI.WebControls.Label lbl_isim;
 
         /// <summary>
-        /// tb_sayi2 control.
+        /// tb_mail control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox tb_sayi2;
+        protected global::System.Web.UI.WebControls.TextBox tb_mail;
 
         /// <summary>
-        /// btn_topla control.
+        /// lbl_sifre control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btn_topla;
+        protected global::System.Web.UI.WebControls.Label lbl_sifre;
 
         /// <summary>
-        /// btn_cikar control.
+        /// tb_sifre control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btn_cikar;
+        protected global::System.Web.UI.WebControls.TextBox tb_sifre;
 
         /// <summary>
-        /// btn_carp control.
+        /// btn_giris control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btn_carp;
-
-        /// <summary>
-        /// btn_bolme control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btn_bolme;
-
-        /// <summary>
-        /// tb_sonuc control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox tb_sonuc;
+        protected global::System.Web.UI.WebControls.Button btn_giris;
 
         /// <summary>
         /// lbl_bos control.

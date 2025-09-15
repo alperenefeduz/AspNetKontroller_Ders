@@ -5,10 +5,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
-    <style> 
-        .kutu{
-            width:360px;
-            min-height:300px;
+    <style>
+        .kutu {
+            width: 360px;
+            min-height: 300px;
             border: 1px solid black;
             padding: 20px;
         }
@@ -19,14 +19,22 @@
         <div class="kutu">
             <label>Sayı 1:</label>
             <asp:TextBox ID="tb_sayi1" runat="server"></asp:TextBox>
-            <br /><br />
+            <br />
+            <br />
             <label>Sayı 2:</label>
             <asp:TextBox ID="tb_sayi2" runat="server"></asp:TextBox>
-            <br /><br />
-            <asp:Button ID="btn_topla" runat="server" Text="Topla"  />
-            <br /><br />
+            <br />
+            <br />
+            <asp:Button ID="btn_topla" runat="server" Text="Topla" OnClick="btn_topla_Click" />
+            <asp:Button ID="btn_cikar" runat="server" Text="Çıkar" OnClick="btn_cikar_Click" />
+            <asp:Button ID="btn_carp" runat="server" Text="Çarp" OnClick="btn_carp_Click" />
+            <asp:Button ID="btn_bolme" runat="server" Text="Bölme" OnClick="btn_bolme_Click" />
+            <br />
+            <br />
             <label>Sonuç :</label>
-            <asp:TextBox ID="tb_sonuc" runat="server" ></asp:TextBox>
+            <asp:TextBox ID="tb_sonuc" runat="server"></asp:TextBox>
+            <br />
+            <asp:Label ID="lbl_bos" runat="server"></asp:Label>
         </div>
     </form>
 </body>
