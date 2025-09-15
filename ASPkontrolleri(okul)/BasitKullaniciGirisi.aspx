@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="BasitKullaniciGirisi.aspx.cs" Inherits="ASPkontrolleri_okul_.BasitKullaniciGirisi" %>
+﻿ <%@ Page Language="C#" AutoEventWireup="true" CodeBehind="BasitKullaniciGirisi.aspx.cs" Inherits="ASPkontrolleri_okul_.BasitKullaniciGirisi" %>
 
 <!DOCTYPE html>
 

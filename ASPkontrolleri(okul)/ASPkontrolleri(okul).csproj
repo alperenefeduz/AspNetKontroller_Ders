@@ -67,6 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="BasitGirisUygulamasi2.aspx" />
     <Content Include="BasitKullaniciGirisi.aspx" />
     <Content Include="ButtonKullanimi.aspx" />
     <Content Include="labelkullanimi.aspx" />
@@ -75,6 +76,13 @@
     <Content Include="ÇokBasitHesapMakinasi.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BasitGirisUygulamasi2.aspx.cs">
+      <DependentUpon>BasitGirisUygulamasi2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BasitGirisUygulamasi2.aspx.designer.cs">
+      <DependentUpon>BasitGirisUygulamasi2.aspx</DependentUpon>
+    </Compile>
     <Compile Include="BasitKullaniciGirisi.aspx.cs">
       <DependentUpon>BasitKullaniciGirisi.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
