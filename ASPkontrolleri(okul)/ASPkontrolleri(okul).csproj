@@ -70,6 +70,8 @@
     <Content Include="BasitGirisUygulamasi2.aspx" />
     <Content Include="BasitKullaniciGirisi.aspx" />
     <Content Include="ButtonKullanimi.aspx" />
+    <Content Include="css\Giriskayitfromstil.css" />
+    <Content Include="giriskayitödev.aspx" />
     <Content Include="labelkullanimi.aspx" />
     <Content Include="TextBoxKullanimi.aspx" />
     <Content Include="Web.config" />
@@ -96,6 +98,13 @@
     </Compile>
     <Compile Include="ButtonKullanimi.aspx.designer.cs">
       <DependentUpon>ButtonKullanimi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="giriskayitödev.aspx.cs">
+      <DependentUpon>giriskayitödev.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="giriskayitödev.aspx.designer.cs">
+      <DependentUpon>giriskayitödev.aspx</DependentUpon>
     </Compile>
     <Compile Include="labelkullanimi.aspx.cs">
       <DependentUpon>labelkullanimi.aspx</DependentUpon>

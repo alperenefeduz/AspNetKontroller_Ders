@@ -5,66 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
-    
-    <style>
-         h1{
-            margin: 0;
-            padding: 0;
-        }
-        /* sayfadaki her html kontrolünün kendii karakteristik boşluklarını yok et */
-        .tasiyici {
-            width: 420px;
-            min-height: 200px;
-            border: 5px solid black;
-            margin: 200px auto;
-            padding: 20px;
-            background-color:lightcyan;
-            text-align:center;
-            
-        }
-        
-        body {
-            font-family: Calibri;
-            background-color:darkslategray;
-        }
-        .metinKutu{
-            width:100%;
-            padding:5px;
-            border-radius:12px;
-            border:3px solid green;
-        }
-        .satir{
-            padding:15px 0;
-        }
-        .girisButon{
-            width:420px;
-            padding:15px;
-            border-radius:12px;
-            font-size:50px;
-            background-color:yellow;
-            font-weight:bold;
-            border:3px solid darkgreen;
-        }
-        .girisButon:hover{
-            color:red;
-            
-        }
-        .baslik {
-            margin-bottom:10px;
-        }
-        .baslik p {
-            border-bottom:3px solid black;
-            padding-bottom:10px;
-        }
-        .mesaj{
-            color:red;
-            font-weight:800;
-            font-size:20px;
-            margin-left:10px;
-            padding-bottom:10px;
-            
-        }
-    </style>
+    <link href="css/Giriskayitfromstil.css" rel="stylesheet" />
 </head>
 <body>
     <form id="form1" runat="server">
@@ -86,7 +27,23 @@
 
             </div>
             <div class="satir">
-                <asp:Button ID="btn_giris" runat="server" Text="GİRİŞ YAP"  CssClass="girisButon" OnClick="btn_giris_Click">
+               <asp:TextBox ID="tb_isim" runat="server" CssClass="metinKutu" placeholder="İsim"></asp:TextBox>
+               <asp:Label ID="lbl_isimMesaj" runat="server" CssClass="mesaj"></asp:Label>
+           </div>
+           <div class="satir">
+               <asp:TextBox ID="tb_soyisim" runat="server" CssClass="metinKutu" placeholder="Soyİsim"></asp:TextBox>
+               <asp:Label ID="lbl_soyisimMesaj" runat="server" CssClass="mesaj"></asp:Label>
+           </div>
+           <div class="satir">
+               <asp:TextBox ID="tb_telefonno" runat="server" CssClass="metinKutu" placeholder="Telefon Numarası (+90...)"></asp:TextBox>
+               <asp:Label ID="lbl_telnoMesaj" runat="server" CssClass="mesaj"></asp:Label>
+           </div>
+           <div class="satir">
+               <asp:TextBox ID="tb_mail" runat="server" CssClass="metinKutu" placeholder="Mail (@.)"></asp:TextBox>
+               <asp:Label ID="lbl_mailMesaj" runat="server" CssClass="mesaj"></asp:Label>
+           </div>
+            <div class="satir">
+                <asp:Button ID="btn_giris" runat="server" Text="GİRİŞ YAP"  CssClass="girisButon" OnClick="btn_giris_Click1">
                 </asp:Button>
             </div>
             <div class="satir">   
