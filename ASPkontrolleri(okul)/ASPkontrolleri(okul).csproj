@@ -71,6 +71,8 @@
     <Content Include="BasitKullaniciGirisi.aspx" />
     <Content Include="ButtonKullanimi.aspx" />
     <Content Include="css\Giriskayitfromstil.css" />
+    <Content Include="ddl_OgrenciKayit.aspx" />
+    <Content Include="DropDownListKontrolleri.aspx" />
     <Content Include="giriskayitödev.aspx" />
     <Content Include="labelkullanimi.aspx" />
     <Content Include="TextBoxKullanimi.aspx" />
@@ -98,6 +100,20 @@
     </Compile>
     <Compile Include="ButtonKullanimi.aspx.designer.cs">
       <DependentUpon>ButtonKullanimi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ddl_OgrenciKayit.aspx.cs">
+      <DependentUpon>ddl_OgrenciKayit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ddl_OgrenciKayit.aspx.designer.cs">
+      <DependentUpon>ddl_OgrenciKayit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DropDownListKontrolleri.aspx.cs">
+      <DependentUpon>DropDownListKontrolleri.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DropDownListKontrolleri.aspx.designer.cs">
+      <DependentUpon>DropDownListKontrolleri.aspx</DependentUpon>
     </Compile>
     <Compile Include="giriskayitödev.aspx.cs">
       <DependentUpon>giriskayitödev.aspx</DependentUpon>
