@@ -60,12 +60,48 @@ namespace ASPkontrolleri_okul_
         protected global::System.Web.UI.WebControls.TextBox tb_okulNo;
 
         /// <summary>
-        /// ddl_sorumlu control.
+        /// ddl_SinifSec control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList ddl_sorumlu;
+        protected global::System.Web.UI.WebControls.DropDownList ddl_SinifSec;
+
+        /// <summary>
+        /// ddl_subesec control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.DropDownList ddl_subesec;
+
+        /// <summary>
+        /// ddl_ilceSec control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.DropDownList ddl_ilceSec;
+
+        /// <summary>
+        /// btn_kaydet control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btn_kaydet;
+
+        /// <summary>
+        /// lbl_kayit control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lbl_kayit;
     }
 }

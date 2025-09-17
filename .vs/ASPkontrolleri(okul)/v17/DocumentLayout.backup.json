@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\alper\\Documents\\GitHub\\AspNetKontroller_Ders\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|c:\\users\\alper\\documents\\github\\aspnetkontroller_ders\\aspkontrolleri(okul)\\ddl_ogrencikayit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|solutionrelative:aspkontrolleri(okul)\\ddl_ogrencikayit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|c:\\users\\alper\\documents\\github\\aspnetkontroller_ders\\aspkontrolleri(okul)\\ddl_ogrencikayit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|solutionrelative:aspkontrolleri(okul)\\ddl_ogrencikayit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|c:\\users\\alper\\documents\\github\\aspnetkontroller_ders\\aspkontrolleri(okul)\\dropdownlistkontrolleri.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|solutionrelative:aspkontrolleri(okul)\\dropdownlistkontrolleri.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|c:\\users\\alper\\documents\\github\\aspnetkontroller_ders\\aspkontrolleri(okul)\\dropdownlistkontrolleri.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|C:\\Users\\alper\\Documents\\GitHub\\AspNetKontroller_Ders\\aspkontrolleri(okul)\\dropdownlistkontrolleri.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|solutionrelative:aspkontrolleri(okul)\\dropdownlistkontrolleri.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|c:\\users\\alper\\documents\\github\\aspnetkontroller_ders\\aspkontrolleri(okul)\\basitkullanicigirisi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|C:\\Users\\alper\\Documents\\GitHub\\AspNetKontroller_Ders\\aspkontrolleri(okul)\\basitkullanicigirisi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|solutionrelative:aspkontrolleri(okul)\\basitkullanicigirisi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|c:\\users\\alper\\documents\\github\\aspnetkontroller_ders\\aspkontrolleri(okul)\\\u00E7okbasithesapmakinasi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|solutionrelative:aspkontrolleri(okul)\\\u00E7okbasithesapmakinasi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|C:\\Users\\alper\\Documents\\GitHub\\AspNetKontroller_Ders\\aspkontrolleri(okul)\\css\\giriskayitfromstil.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|solutionrelative:aspkontrolleri(okul)\\css\\giriskayitfromstil.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|c:\\users\\alper\\documents\\github\\aspnetkontroller_ders\\aspkontrolleri(okul)\\css\\giriskayitfromstil.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|solutionrelative:aspkontrolleri(okul)\\css\\giriskayitfromstil.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|C:\\Users\\alper\\Documents\\GitHub\\AspNetKontroller_Ders\\aspkontrolleri(okul)\\\u00E7okbasithesapmakinasi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|solutionrelative:aspkontrolleri(okul)\\\u00E7okbasithesapmakinasi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,8 +33,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "DockedWidth": 245,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +54,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "ddl_OgrenciKayit.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\Documents\\GitHub\\AspNetKontroller_Ders\\ASPkontrolleri(okul)\\ddl_OgrenciKayit.aspx.cs",
+              "RelativeDocumentMoniker": "ASPkontrolleri(okul)\\ddl_OgrenciKayit.aspx.cs",
+              "ToolTip": "C:\\Users\\alper\\Documents\\GitHub\\AspNetKontroller_Ders\\ASPkontrolleri(okul)\\ddl_OgrenciKayit.aspx.cs",
+              "RelativeToolTip": "ASPkontrolleri(okul)\\ddl_OgrenciKayit.aspx.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwCYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T16:18:53.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "\u00C7okBasitHesapMakinasi.aspx",
               "DocumentMoniker": "C:\\Users\\alper\\Documents\\GitHub\\AspNetKontroller_Ders\\ASPkontrolleri(okul)\\\u00C7okBasitHesapMakinasi.aspx",
               "RelativeDocumentMoniker": "ASPkontrolleri(okul)\\\u00C7okBasitHesapMakinasi.aspx",
@@ -62,18 +75,17 @@
               "RelativeToolTip": "ASPkontrolleri(okul)\\\u00C7okBasitHesapMakinasi.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-09-17T07:11:34.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T07:11:34.161Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Giriskayitfromstil.css",
               "DocumentMoniker": "C:\\Users\\alper\\Documents\\GitHub\\AspNetKontroller_Ders\\ASPkontrolleri(okul)\\css\\Giriskayitfromstil.css",
               "RelativeDocumentMoniker": "ASPkontrolleri(okul)\\css\\Giriskayitfromstil.css",
               "ToolTip": "C:\\Users\\alper\\Documents\\GitHub\\AspNetKontroller_Ders\\ASPkontrolleri(okul)\\css\\Giriskayitfromstil.css",
               "RelativeToolTip": "ASPkontrolleri(okul)\\css\\Giriskayitfromstil.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-09-17T07:11:04.255Z",
               "EditorCaption": ""
@@ -93,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ddl_OgrenciKayit.aspx",
               "DocumentMoniker": "C:\\Users\\alper\\Documents\\GitHub\\AspNetKontroller_Ders\\ASPkontrolleri(okul)\\ddl_OgrenciKayit.aspx",
               "RelativeDocumentMoniker": "ASPkontrolleri(okul)\\ddl_OgrenciKayit.aspx",
@@ -102,19 +114,6 @@
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-09-17T07:08:53.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DropDownListKontrolleri.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\alper\\Documents\\GitHub\\AspNetKontroller_Ders\\ASPkontrolleri(okul)\\DropDownListKontrolleri.aspx.cs",
-              "RelativeDocumentMoniker": "ASPkontrolleri(okul)\\DropDownListKontrolleri.aspx.cs",
-              "ToolTip": "C:\\Users\\alper\\Documents\\GitHub\\AspNetKontroller_Ders\\ASPkontrolleri(okul)\\DropDownListKontrolleri.aspx.cs",
-              "RelativeToolTip": "ASPkontrolleri(okul)\\DropDownListKontrolleri.aspx.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBoAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T06:19:18.416Z",
               "EditorCaption": ""
             },
             {

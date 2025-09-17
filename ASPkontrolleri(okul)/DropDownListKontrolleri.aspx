@@ -25,7 +25,7 @@
         </div>
         <div>
             <label>Sınıf Başkanı Seçiniz:</label>
-            <asp:DropDownList ID="ddl_sinifBaskani" runat="server"                                  OnSelectedIndexChanged="ddl_sinifBaskani_SelectedIndexChanged" AutoPostBack="true">
+            <asp:DropDownList ID="ddl_sinifBaskani" runat="server"  OnSelectedIndexChanged="ddl_sinifBaskani_SelectedIndexChanged" AutoPostBack="true">
                 <asp:ListItem Text="Poyraz Salih" Value="510"></asp:ListItem>
                 <asp:ListItem Text="Cemrenaz Türkanoğlu" Value="515"></asp:ListItem>
                 <asp:ListItem Text="Nisa Nur Uçar" Value="522"></asp:ListItem>
