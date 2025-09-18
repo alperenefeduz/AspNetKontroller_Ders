@@ -25,7 +25,21 @@ namespace ASPkontrolleri_okul_
         {
             string secilenElemanText = ddl_sinifBaskani.SelectedItem.Text;
             string secilenElemanValue = ddl_sinifBaskani.SelectedValue;
-            lbl_secilenBaskan.Text = "Seçien Başkan " + secilenElemanText + " Numara = " + secilenElemanValue;
+            lbl_secilenBaskan.Text = "Seçien Başkan = " + secilenElemanText + " Numara = " + secilenElemanValue;
+        }
+
+        protected void btn_eklenecek_Click(object sender, EventArgs e)
+        {
+            if (!string.IsNullOrEmpty(tb_eklenecek.Text))
+            {
+                ddl_eklenenler.Items.Add(tb_eklenecek.Text);
+                tb_eklenecek.Text = "";
+            }
+        }
+
+        protected void btn_yazdir_Click(object sender, EventArgs e)
+        {
+            lbl_secilmis.Text = "Text = " + ddl_eklenenler.SelectedItem.Text + " Value = " + ddl_eklenenler.SelectedItem.Value;
         }
     }
 }

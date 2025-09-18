@@ -5,6 +5,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
+    <style>
+        div{
+            margin:20px 0 ;
+        }
+    </style>
 </head>
 <body>
     <form id="form1" runat="server">
@@ -36,6 +41,16 @@
             </asp:DropDownList>
             <br />  
             <asp:Label ID="lbl_secilenBaskan" runat="server" ></asp:Label>
+        </div>
+        <div>   
+            <label>Eklenecek Veri</label>
+            <asp:TextBox ID="tb_eklenecek" runat="server" ></asp:TextBox>
+            <asp:Button ID="btn_eklenecek" runat="server" OnClick="btn_eklenecek_Click"  Text="Ekle"></asp:Button>
+            <br />
+            <asp:DropDownList ID="ddl_eklenenler" runat="server"></asp:DropDownList>
+            <asp:Button ID="btn_yazdir" runat="server" text="Yazdır" OnClick="btn_yazdir_Click" />
+            <br />
+            <asp:Label ID="lbl_secilmis" runat="server" ></asp:Label>
         </div>
     </form>
 </body>
