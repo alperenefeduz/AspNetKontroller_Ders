@@ -78,6 +78,7 @@
     <Content Include="TextBoxKullanimi.aspx" />
     <Content Include="Web.config" />
     <Content Include="ÇokBasitHesapMakinasi.aspx" />
+    <Content Include="ödevalphoca.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BasitGirisUygulamasi2.aspx.cs">
@@ -143,6 +144,13 @@
     </Compile>
     <Compile Include="ÇokBasitHesapMakinasi.aspx.designer.cs">
       <DependentUpon>ÇokBasitHesapMakinasi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ödevalphoca.aspx.cs">
+      <DependentUpon>ödevalphoca.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ödevalphoca.aspx.designer.cs">
+      <DependentUpon>ödevalphoca.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
