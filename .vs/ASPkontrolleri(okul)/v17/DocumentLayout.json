@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\alper\\Documents\\GitHub\\AspNetKontroller_Ders\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|C:\\Users\\alper\\Documents\\GitHub\\AspNetKontroller_Ders\\aspkontrolleri(okul)\\dropdownlistkontrolleri.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|c:\\users\\alper\\documents\\github\\aspnetkontroller_ders\\aspkontrolleri(okul)\\checkboxveradiobuttonkontrolleri.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|solutionrelative:aspkontrolleri(okul)\\checkboxveradiobuttonkontrolleri.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|c:\\users\\alper\\documents\\github\\aspnetkontroller_ders\\aspkontrolleri(okul)\\checkboxveradiobuttonkontrolleri.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|solutionrelative:aspkontrolleri(okul)\\checkboxveradiobuttonkontrolleri.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|c:\\users\\alper\\documents\\github\\aspnetkontroller_ders\\aspkontrolleri(okul)\\dropdownlistkontrolleri.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|solutionrelative:aspkontrolleri(okul)\\dropdownlistkontrolleri.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|c:\\users\\alper\\documents\\github\\aspnetkontroller_ders\\aspkontrolleri(okul)\\dropdownlistkontrolleri.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|C:\\Users\\alper\\Documents\\GitHub\\AspNetKontroller_Ders\\aspkontrolleri(okul)\\dropdownlistkontrolleri.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|solutionrelative:aspkontrolleri(okul)\\dropdownlistkontrolleri.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 245,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,6 +51,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CheckboxveRadioButtonKontrolleri.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\Documents\\GitHub\\AspNetKontroller_Ders\\ASPkontrolleri(okul)\\CheckboxveRadioButtonKontrolleri.aspx.cs",
+              "RelativeDocumentMoniker": "ASPkontrolleri(okul)\\CheckboxveRadioButtonKontrolleri.aspx.cs",
+              "ToolTip": "C:\\Users\\alper\\Documents\\GitHub\\AspNetKontroller_Ders\\ASPkontrolleri(okul)\\CheckboxveRadioButtonKontrolleri.aspx.cs",
+              "RelativeToolTip": "ASPkontrolleri(okul)\\CheckboxveRadioButtonKontrolleri.aspx.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T12:43:31.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckboxveRadioButtonKontrolleri.aspx",
+              "DocumentMoniker": "C:\\Users\\alper\\Documents\\GitHub\\AspNetKontroller_Ders\\ASPkontrolleri(okul)\\CheckboxveRadioButtonKontrolleri.aspx",
+              "RelativeDocumentMoniker": "ASPkontrolleri(okul)\\CheckboxveRadioButtonKontrolleri.aspx",
+              "ToolTip": "C:\\Users\\alper\\Documents\\GitHub\\AspNetKontroller_Ders\\ASPkontrolleri(okul)\\CheckboxveRadioButtonKontrolleri.aspx",
+              "RelativeToolTip": "ASPkontrolleri(okul)\\CheckboxveRadioButtonKontrolleri.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-22T12:34:38.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DropDownListKontrolleri.aspx.cs",
               "DocumentMoniker": "C:\\Users\\alper\\Documents\\GitHub\\AspNetKontroller_Ders\\ASPkontrolleri(okul)\\DropDownListKontrolleri.aspx.cs",
               "RelativeDocumentMoniker": "ASPkontrolleri(okul)\\DropDownListKontrolleri.aspx.cs",
@@ -50,12 +84,11 @@
               "RelativeToolTip": "ASPkontrolleri(okul)\\DropDownListKontrolleri.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T08:35:24.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-18T08:35:24.264Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "\u00F6devalphoca.aspx",
               "DocumentMoniker": "C:\\Users\\alper\\Documents\\GitHub\\AspNetKontroller_Ders\\ASPkontrolleri(okul)\\\u00F6devalphoca.aspx",
               "RelativeDocumentMoniker": "ASPkontrolleri(okul)\\\u00F6devalphoca.aspx",
@@ -63,12 +96,11 @@
               "RelativeToolTip": "ASPkontrolleri(okul)\\\u00F6devalphoca.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-09-18T07:46:42.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-18T07:46:42.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "DropDownListKontrolleri.aspx",
               "DocumentMoniker": "C:\\Users\\alper\\Documents\\GitHub\\AspNetKontroller_Ders\\ASPkontrolleri(okul)\\DropDownListKontrolleri.aspx",
               "RelativeDocumentMoniker": "ASPkontrolleri(okul)\\DropDownListKontrolleri.aspx",

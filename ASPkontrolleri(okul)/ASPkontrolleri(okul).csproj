@@ -70,6 +70,7 @@
     <Content Include="BasitGirisUygulamasi2.aspx" />
     <Content Include="BasitKullaniciGirisi.aspx" />
     <Content Include="ButtonKullanimi.aspx" />
+    <Content Include="CheckboxveRadioButtonKontrolleri.aspx" />
     <Content Include="css\Giriskayitfromstil.css" />
     <Content Include="ddl_OgrenciKayit.aspx" />
     <Content Include="DropDownListKontrolleri.aspx" />
@@ -101,6 +102,13 @@
     </Compile>
     <Compile Include="ButtonKullanimi.aspx.designer.cs">
       <DependentUpon>ButtonKullanimi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CheckboxveRadioButtonKontrolleri.aspx.cs">
+      <DependentUpon>CheckboxveRadioButtonKontrolleri.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CheckboxveRadioButtonKontrolleri.aspx.designer.cs">
+      <DependentUpon>CheckboxveRadioButtonKontrolleri.aspx</DependentUpon>
     </Compile>
     <Compile Include="ddl_OgrenciKayit.aspx.cs">
       <DependentUpon>ddl_OgrenciKayit.aspx</DependentUpon>
