@@ -78,13 +78,31 @@ namespace ASPkontrolleri_okul_
         protected global::System.Web.UI.WebControls.RadioButton rb_kadın;
 
         /// <summary>
-        /// btn_sec control.
+        /// pnl_medeni control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btn_sec;
+        protected global::System.Web.UI.WebControls.Panel pnl_medeni;
+
+        /// <summary>
+        /// rb_evli control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RadioButton rb_evli;
+
+        /// <summary>
+        /// rb_bekar control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RadioButton rb_bekar;
 
         /// <summary>
         /// lbl_cinsiyet control.

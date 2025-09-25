@@ -24,7 +24,10 @@
             </asp:Panel>
         </div>
         <div>
-            <asp:Button ID="btn_sec" runat="server" Text="Seç" OnClick="btn_sec_Click" />
+           <asp:Panel ID="pnl_medeni" runat="server" GroupingText="medeni Hal" Style="width: 200px">
+                <asp:RadioButton ID="rb_evli" runat="server" Text="Evli" GroupName="Medenihal" />
+                <asp:RadioButton ID="rb_bekar" runat="server" Text="Bekar" GroupName="Medenihal" />
+            </asp:Panel>
         </div>
         <div>
             <asp:Label ID="lbl_cinsiyet" runat="server"></asp:Label>

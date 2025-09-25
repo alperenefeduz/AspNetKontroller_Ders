@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|solutionrelative:aspkontrolleri(okul)\\checkboxveradiobuttonkontrolleri.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|c:\\users\\alper\\documents\\github\\aspnetkontroller_ders\\aspkontrolleri(okul)\\checkboxveradiobuttonkontrolleri.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|C:\\Users\\alper\\Documents\\GitHub\\AspNetKontroller_Ders\\aspkontrolleri(okul)\\checkboxveradiobuttonkontrolleri.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|solutionrelative:aspkontrolleri(okul)\\checkboxveradiobuttonkontrolleri.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|c:\\users\\alper\\documents\\github\\aspnetkontroller_ders\\aspkontrolleri(okul)\\dropdownlistkontrolleri.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|C:\\Users\\alper\\Documents\\GitHub\\AspNetKontroller_Ders\\aspkontrolleri(okul)\\dropdownlistkontrolleri.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{BE1E5D41-17F9-4422-B601-60432DC054DA}|ASPkontrolleri(okul)\\ASPkontrolleri(okul).csproj|solutionrelative:aspkontrolleri(okul)\\dropdownlistkontrolleri.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -54,8 +54,8 @@
               "Title": "CheckboxveRadioButtonKontrolleri.aspx.cs",
               "DocumentMoniker": "C:\\Users\\alper\\Documents\\GitHub\\AspNetKontroller_Ders\\ASPkontrolleri(okul)\\CheckboxveRadioButtonKontrolleri.aspx.cs",
               "RelativeDocumentMoniker": "ASPkontrolleri(okul)\\CheckboxveRadioButtonKontrolleri.aspx.cs",
-              "ToolTip": "C:\\Users\\alper\\Documents\\GitHub\\AspNetKontroller_Ders\\ASPkontrolleri(okul)\\CheckboxveRadioButtonKontrolleri.aspx.cs*",
-              "RelativeToolTip": "ASPkontrolleri(okul)\\CheckboxveRadioButtonKontrolleri.aspx.cs*",
+              "ToolTip": "C:\\Users\\alper\\Documents\\GitHub\\AspNetKontroller_Ders\\ASPkontrolleri(okul)\\CheckboxveRadioButtonKontrolleri.aspx.cs",
+              "RelativeToolTip": "ASPkontrolleri(okul)\\CheckboxveRadioButtonKontrolleri.aspx.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAowC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-22T12:43:31.902Z",
@@ -108,8 +108,7 @@
               "RelativeToolTip": "ASPkontrolleri(okul)\\DropDownListKontrolleri.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-09-17T06:08:06.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T06:08:06.287Z"
             }
           ]
         }
